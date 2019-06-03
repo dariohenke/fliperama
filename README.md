@@ -25,8 +25,3 @@ A seguir estão os links que usei para entender o processo:
 * Para usar funções matemáticas para movimento aleatório: [Fonte] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
 * Para entender o processo de digitação da tecla do teclado: [Source] (http://errietta.me/blog/move-an-image-around-with-arrow-keys/)
 * Para entender o processo de colisão: [Fonte] (http://devmag.org.za/2009/04/13/basic-collision-detection-in-2d-part-1/)
-
-## Resultado
-
-Objetivo alcançado. Jogue [Frogger] aqui.
-Target Achieved. Play [Frogger](http://nidhigaday.github.io/Frogger) here.
