@@ -6,7 +6,7 @@
 
 Este projeto teve como objetivo aprender e praticar o conceito de Javascript Orientado a Objetos e Canvas HTML5.
 
-** Habilidades direcionadas: **
+**Habilidades direcionadas:**
 * OOPS Javascript
 * Encerramento de Javascript
 * Javascript 'this' palavra-chave
