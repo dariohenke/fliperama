@@ -1,6 +1,6 @@
 # Frogger - Jogo de Arcade Clássico
 
-![Parte do Nanodegree de Desenvolvimento Web de Udacity Front-End] (https://img.shields.io/badge/Udacity-Front--End%20Web%20Developer%20Nanodegree-02b3e4.svg)
+[Parte do Nanodegree de Desenvolvimento Web de Udacity Front-End](https://img.shields.io/badge/Udacity-Front--End%20Web%20Developer%20Nanodegree-02b3e4.svg)
 
 ## Introdução
 
